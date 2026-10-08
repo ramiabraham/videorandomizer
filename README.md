@@ -18,7 +18,7 @@ System Settings → Privacy & Security.
 - Install
 - Right-click and click Open to allow the app to open. Currently, the install package has no Apple Developer ID signature, so double-clicking it shows a Gatekeeper warning. Right-click → Open, or allow the app to run in System Settings → Privacy & Security.
 
-- ## Usage
+## Usage
 - Specify a root directory for your video files in Settings.
 - VideoRandomizer will auto-play all video files in this directory, including sub-directories. Playback will continue until you quit the app or press pause or stop in the app's playback controls (or via the top menu).
 - Play, pause, or stop playback with the hover controls in the video player.
